@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew
 - 👀 I’m interested in web development, cloud computing and alternative energy.
 - 🌱 I’m currently learning front end development using React 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me https://twitter.com/first_name_gr8
 
 <!---
