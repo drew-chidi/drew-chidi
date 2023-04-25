@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=drew-chidi)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=drew-chidi)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
