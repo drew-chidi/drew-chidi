@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Chidi. I'm from Lagos, Nigeria.
+- 👋 Hi, I’m Andrew Chidi Ofuenweuche. I'm from Lagos, Nigeria.
 - 👀 I’m interested in web development, applications of artificial intelligence and project management.
 - 🌱 I’m currently learning frontend engineering for mobile, web and desktop applications using React.JS, ReactNative and Electron.js. 
 - 💞️ I’m open to Frontend jobs and I'm looking to collaborate.
